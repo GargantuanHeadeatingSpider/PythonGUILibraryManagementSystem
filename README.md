@@ -1,5 +1,5 @@
 # PythonGUILibraryManagementSystem
-The library management system I made in my second software development assignment. Made with Python and TKinter.
+The library management system I made in my second software development assignment. Made with Python and TKinter. Somehow this scored like 80%?! 
 
 Features: 
 -Create new books and user details. 
