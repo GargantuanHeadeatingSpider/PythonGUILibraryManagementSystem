@@ -14,3 +14,6 @@ Features:
 
 -Edit existing entries
 
+-Input validation
+
+
